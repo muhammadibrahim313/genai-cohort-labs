@@ -1,7 +1,3 @@
-Here's the updated README with both trainers featured:
-
----
-
 # 🚀 GenAI Cohort Labs: Data Cleaning & Fine-Tuning Workshop
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammadibrahim313/genai-cohort-labs/blob/main/text_data_cleaning.ipynb)
@@ -159,12 +155,6 @@ We're always happy to help with your AI journey!
 
 **Built with ❤️ by Muhammad Ibrahim & Hassan Mehmood for the Pakistani AI Community**
 
----
 
-This README now:
-- **Features both instructors** prominently with profile images
-- **Removes setup instructions** as requested
-- **Shows professional collaboration** between you and Hassan
-- **Includes clickable badges** for LinkedIn and GitHub
 - **Looks visually appealing** with the instructor table
 - **Maintains professional tone** while being engaging
