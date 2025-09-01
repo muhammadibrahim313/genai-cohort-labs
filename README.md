@@ -106,7 +106,7 @@ MIT License - feel free to use in your own projects!
 
 **Muhammad Ibrahim**
 - GitHub: [@muhammadibrahim313](https://github.com/muhammadibrahim313)
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ibrahimqasmi313/)
 
 ---
 
