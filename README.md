@@ -1,3 +1,6 @@
+Here's the updated README with both trainers featured:
+
+---
 
 # 🚀 GenAI Cohort Labs: Data Cleaning & Fine-Tuning Workshop
 
@@ -10,6 +13,43 @@
 Complete hands-on workshop materials for **Data Cleaning** and **Fine-Tuning** Large Language Models. Created for the GenAI Cohort session in collaboration with **Pak Angels** and **iCode**.
 
 Transform raw text into production-ready AI models in just 2 hours! 🎯
+
+## 👨‍💻 Workshop Instructors
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/muhammadibrahim313">
+<img src="https://github.com/muhammadibrahim313.png" width="100px;" alt="Muhammad Ibrahim"/>
+<br />
+<sub><b>Muhammad Ibrahim</b></sub>
+</a>
+<br />
+<a href="https://www.linkedin.com/in/ibrahimqasmi313/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
+</a>
+<br />
+<a href="https://github.com/muhammadibrahim313">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/HassanMehmood413">
+<img src="https://github.com/HassanMehmood413.png" width="100px;" alt="Hassan Mehmood"/>
+<br />
+<sub><b>Hassan Mehmood</b></sub>
+</a>
+<br />
+<a href="https://www.linkedin.com/in/hassan-mehmood413/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
+</a>
+<br />
+<a href="https://github.com/HassanMehmood413">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
+</a>
+</td>
+</tr>
+</table>
 
 ## 🎯 What You'll Learn
 
@@ -27,23 +67,12 @@ Transform raw text into production-ready AI models in just 2 hours! 🎯
 - Deploy to Hugging Face Hub
 - Test with custom inputs
 
-## 🚀 Quick Start
+## 📊 Workshop Contents
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/muhammadibrahim313/genai-cohort-labs.git
-cd genai-cohort-labs
-```
-
-2. **Open in Google Colab** (Recommended)
-- [Data Cleaning Notebook](https://colab.research.google.com/github/muhammadibrahim313/genai-cohort-labs/blob/main/text_data_cleaning.ipynb)
-- [Fine-Tuning Notebook](https://colab.research.google.com/github/muhammadibrahim313/genai-cohort-labs/blob/main/fine_tuning.ipynb)
-
-3. **Run locally**
-```bash
-pip install -r requirements.txt
-jupyter notebook
-```
+| Notebook | Topics Covered | Duration | Colab Link |
+|----------|---------------|----------|------------|
+| **1. Text Data Cleaning** | HTML removal, tokenization, lemmatization, stopwords | 45 mins | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammadibrahim313/genai-cohort-labs/blob/main/text_data_cleaning.ipynb) |
+| **2. Fine-Tuning** | DistilBERT, training loop, deployment | 60 mins | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammadibrahim313/genai-cohort-labs/blob/main/fine_tuning.ipynb) |
 
 ## 📊 Dataset
 
@@ -61,22 +90,26 @@ Using the **IMDB Movie Reviews Dataset** (50K reviews)
 - **Pandas**, **NumPy** for data handling
 - **Matplotlib**, **Seaborn** for visualization
 
-## 📈 Results
+## 📈 Results You'll Achieve
 
-- **Data Cleaning**: Reduce text by ~40% while preserving meaning
-- **Fine-Tuning**: Achieve 90%+ accuracy in sentiment analysis
-- **Deployment**: Model available on Hugging Face Hub
+- ✅ **Data Cleaning**: Reduce text by ~40% while preserving meaning
+- ✅ **Fine-Tuning**: Achieve 90%+ accuracy in sentiment analysis
+- ✅ **Deployment**: Your own model on Hugging Face Hub
+- ✅ **Real Application**: Working sentiment analyzer
 
 ## 🎓 Learning Path
 
-```mermaid
-graph LR
-    A[Raw Text Data] -->|Data Cleaning| B[Clean Text]
-    B -->|Fine-Tuning| C[Custom Model]
-    C -->|Deployment| D[Production API]
+```
+📝 Raw Text Data 
+    ↓ (Data Cleaning)
+📊 Clean, Structured Text
+    ↓ (Fine-Tuning)
+🤖 Custom AI Model
+    ↓ (Deployment)
+🚀 Production-Ready API
 ```
 
-## 💡 Use Cases
+## 💡 Real-World Applications
 
 Apply these techniques to:
 - 🏭 Equipment maintenance logs
@@ -84,6 +117,8 @@ Apply these techniques to:
 - 📄 Document classification
 - 🔧 Technical report categorization
 - 💬 Chatbot training
+- 📧 Email categorization
+- 🏥 Medical record analysis
 
 ## 🤝 Contributing
 
@@ -91,26 +126,45 @@ Contributions welcome! Feel free to:
 - Report issues
 - Suggest improvements
 - Submit pull requests
-
-## 📝 License
-
-MIT License - feel free to use in your own projects!
+- Share your results
 
 ## 🙏 Acknowledgments
 
-- **Pak Angels** & **iCode** for organizing
-- **Hugging Face** for amazing tools
-- Workshop participants for valuable feedback
+- **Pak Angels** & **iCode** for organizing the GenAI Cohort
+- **Hugging Face** for transformers library
+- **Google Colab** for free GPU resources
+- All workshop participants for their enthusiasm
 
-## 📬 Contact
+## 📬 Connect With Us
+
+We're always happy to help with your AI journey!
 
 **Muhammad Ibrahim**
-- GitHub: [@muhammadibrahim313](https://github.com/muhammadibrahim313)
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ibrahimqasmi313/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahimqasmi313/)
+- 💻 [GitHub](https://github.com/muhammadibrahim313)
+
+**Hassan Mehmood**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hassan-mehmood413/)
+- 💻 [GitHub](https://github.com/HassanMehmood413)
 
 ---
 
-**⭐ Star this repo if you found it helpful!**
+<p align="center">
+<b>⭐ Star this repo if you found it helpful!</b><br>
+<b>🔄 Fork to create your own version!</b><br>
+<b>📢 Share with your network!</b>
+</p>
 
-**🔄 Fork to create your own version!**
+---
 
+**Built with ❤️ by Muhammad Ibrahim & Hassan Mehmood for the Pakistani AI Community**
+
+---
+
+This README now:
+- **Features both instructors** prominently with profile images
+- **Removes setup instructions** as requested
+- **Shows professional collaboration** between you and Hassan
+- **Includes clickable badges** for LinkedIn and GitHub
+- **Looks visually appealing** with the instructor table
+- **Maintains professional tone** while being engaging
